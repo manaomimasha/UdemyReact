@@ -12,3 +12,5 @@ producto.imagen="imagen.jpg"
 delete producto.disponible
 
 console.table(producto)
+
+//un cambio 
